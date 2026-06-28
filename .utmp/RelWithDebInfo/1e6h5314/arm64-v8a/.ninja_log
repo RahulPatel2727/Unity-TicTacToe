@@ -1,0 +1,23 @@
+# ninja log v5
+2159	2275	1782501580378707582	/Users/rahulpatel/TicTacToe/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1e6h5314/obj/arm64-v8a/libgame.so	afafea6ec9da5b2a
+3	2159	1782501580263254201	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	6d92944662eb817c
+4	2107	1782501580210095573	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	97f37f86e6ef4f00
+5	1958	1782501580061797021	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	e8621eb82756d500
+4	1825	1782501579924134184	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	86459ba69368c5b8
+5	1852	1782501579954814739	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	77fca1d938fcb44f
+3	1849	1782501579949026287	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	dd6019095954e657
+3	1924	1782501580027135682	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	4d6bceb8930ee4c3
+4	1730	1782501579832917337	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	5181d7ee7d75defc
+880	1432	1782501579503525100	/Users/rahulpatel/TicTacToe/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1e6h5314/obj/arm64-v8a/libswappywrapper.so	ae2669d8c15fe472
+6	880	1782501578976600885	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	8785b52ec92d4b7a
+7	723	1782545443013918696	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	8785b52ec92d4b7a
+723	1113	1782545443359616624	/Users/rahulpatel/TicTacToe/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1e6h5314/obj/arm64-v8a/libswappywrapper.so	ae2669d8c15fe472
+6	1808	1782545444095897091	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	5181d7ee7d75defc
+6	1809	1782545444094920870	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	77fca1d938fcb44f
+6	1829	1782545444120521428	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	86459ba69368c5b8
+5	1867	1782545444156721208	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	dd6019095954e657
+7	1905	1782545444197118652	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	e8621eb82756d500
+5	1915	1782545444207594002	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	4d6bceb8930ee4c3
+6	2040	1782545444333193575	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	97f37f86e6ef4f00
+4	2162	1782545444455621282	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	6d92944662eb817c
+2162	2277	1782545444569798613	/Users/rahulpatel/TicTacToe/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1e6h5314/obj/arm64-v8a/libgame.so	afafea6ec9da5b2a
