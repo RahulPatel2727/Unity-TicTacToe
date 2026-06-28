@@ -4,19 +4,13 @@
 [Bb]uild/
 [Bb]uilds/
 [Ll]ogs/
-[Mm]emoryCaptures/
-
 UserSettings/
 
-*.csproj
-*.unityproj
-*.sln
-*.suo
-*.tmp
-*.user
-*.userprefs
-
-.vscode/
-.idea/
+*.apk
+*.aab
+*.app
+*.ipa
 
 .DS_Store
+.vscode/
+.idea/
